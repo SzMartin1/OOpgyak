@@ -1,0 +1,11 @@
+D:\Objektum_orientalt_prog\Konyv\Konyv\bin\Debug\netcoreapp3.0\Konyv.exe
+D:\Objektum_orientalt_prog\Konyv\Konyv\bin\Debug\netcoreapp3.0\Konyv.deps.json
+D:\Objektum_orientalt_prog\Konyv\Konyv\bin\Debug\netcoreapp3.0\Konyv.runtimeconfig.json
+D:\Objektum_orientalt_prog\Konyv\Konyv\bin\Debug\netcoreapp3.0\Konyv.runtimeconfig.dev.json
+D:\Objektum_orientalt_prog\Konyv\Konyv\bin\Debug\netcoreapp3.0\Konyv.dll
+D:\Objektum_orientalt_prog\Konyv\Konyv\bin\Debug\netcoreapp3.0\Konyv.pdb
+D:\Objektum_orientalt_prog\Konyv\Konyv\obj\Debug\netcoreapp3.0\Konyv.csprojAssemblyReference.cache
+D:\Objektum_orientalt_prog\Konyv\Konyv\obj\Debug\netcoreapp3.0\Konyv.AssemblyInfoInputs.cache
+D:\Objektum_orientalt_prog\Konyv\Konyv\obj\Debug\netcoreapp3.0\Konyv.AssemblyInfo.cs
+D:\Objektum_orientalt_prog\Konyv\Konyv\obj\Debug\netcoreapp3.0\Konyv.dll
+D:\Objektum_orientalt_prog\Konyv\Konyv\obj\Debug\netcoreapp3.0\Konyv.pdb
